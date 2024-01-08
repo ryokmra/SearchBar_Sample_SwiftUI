@@ -17,3 +17,7 @@ iOS 17.2
 ## 動作
 
 https://github.com/ryokmra/SearchBar_Sample_SwiftUI/assets/41532442/2d6360ca-9a70-46ba-9785-57b04c6e2e3b
+
+## 参考資料
+
+https://dev.classmethod.jp/articles/hand-made-search-bar/
